@@ -1,5 +1,5 @@
 {
-  "name": "jsonml-tools",
+  "name": "jsonml-tools-patched",
   "version": "2.0.0",
   "description": "The original JsonML. JsonML-related tools for losslessly converting between XML/HTML and JSON, including mixed-mode XML.",
   "homepage": "http://jsonml.org",
